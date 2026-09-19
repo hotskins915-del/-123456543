@@ -1,0 +1,1 @@
+# VK Sender Bot package
